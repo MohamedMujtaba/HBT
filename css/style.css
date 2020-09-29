@@ -179,6 +179,9 @@ p {
   width: 50%;
   min-height: 100%;
 }
+.info-left h1 {
+  line-height: 2.5rem;
+}
 /* -----testimonials----- */
 #testimonials {
   height: 100%;
